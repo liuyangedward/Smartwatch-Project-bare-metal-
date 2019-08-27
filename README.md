@@ -1,6 +1,6 @@
 # Smartwatch-Project-bare-metal-
 
-# NOTE: This is one of the side projects I did in early years. The whole project relies on Visual Studio Code to build. I would clean it up and make it more professional in the future.
+# NOTE: This is one of the side projects I did in early years. The whole project relies on Code Composer Studio(CCS) Code to build. I would clean it up and make it more professional in the future.
 
 This is the bare-metal version. Another version with FreeRTOS can be found in a different repository.
 
